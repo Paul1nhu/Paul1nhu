@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Minha página
 <html>
   <head>
     <meta charset="UTF-8">
